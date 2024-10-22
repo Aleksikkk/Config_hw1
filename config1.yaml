@@ -1,0 +1,5 @@
+username: "alexl"  
+hostname: "LubimyPK"  
+vfs_path: "vfs.zip"  
+log_path: "config1.xml"  
+startup_script: "startup.sh"  
